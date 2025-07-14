@@ -7,10 +7,11 @@ function Technologies() {
     css,
     js,
     react,
-    redux,
     tailwind,
     bootstrap,
-    sass,
+    golang,
+    php,
+    laravel,
     vscode,
     git,
     github,
@@ -33,10 +34,11 @@ function Technologies() {
         <img src={css} title="CSS" alt="" />
         <img src={js} title="JavaScript" alt="" />
         <img src={react} title="React" alt="" />
-        <img src={redux} title="Redux" alt="" />
         <img src={tailwind} title="Tailwind CSS" alt="" />
         <img src={bootstrap} title="Bootstrap" alt="" />
-        <img src={sass} title="SASS" alt="" />
+        <img src={golang} title="Golang" alt="" />
+        <img src={php} title="PHP" alt="" />
+        <img src={laravel} title="Laravel" alt="" />
       </section>
       <section>
         <h1 className="text-2xl pt-10 text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
