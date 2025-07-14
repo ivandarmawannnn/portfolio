@@ -10,7 +10,7 @@ function Footer() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Ivan Darmawann
+          Ivan Darmawan
         </a>{" "}
         with
         <span className="text-gradient font-medium"> Love</span> &
