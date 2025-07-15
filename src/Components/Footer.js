@@ -6,7 +6,7 @@ function Footer() {
         Designed and Coded by{" "}
         <a
           className="font-medium"
-          href="https://ivandarmawan.vercel.app"
+          href="https://portfolio-ivan-darmawans-projects.vercel.app"
           target="_blank"
           rel="noreferrer noopener"
         >
